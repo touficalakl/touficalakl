@@ -19,7 +19,7 @@ window.portfolioContent = {
         "Predicted masks are reconstructed into three-dimensional volumes while preserving NIfTI geometry and voxel spacing. This enables tumor volume measurements, which are combined with patient age in a regression model to estimate survival time in days. A Flask REST backend connects MRI upload and GPU inference to interactive axial, coronal, sagittal, and 3D views, making the results easier to inspect.",
         "My work included model development, training, and the generation of analysis outputs. The conference paper reports a peak validation Dice score of 0.7559 and mean IoU of 0.6457 at epoch 36. These are segmentation-overlap results on the project’s validation data. NeuroAssist remains an academic decision-support prototype: survival estimation was constrained by the available annotations, and external multi-center validation was not performed."
       ],
-      "video": "assets/video/NeuroAssist.mp4"
+      "video": "NeuroAssist.mp4"
     },
     {
       "id": "cardio",
